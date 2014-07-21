@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.5, 44.25]
+        "coordinates": [-76.5, 44.24]
       },
       "properties": {
         "name": "Gary's Garden",
