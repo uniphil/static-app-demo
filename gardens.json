@@ -24,6 +24,18 @@
         "name": "Sarah's Soils",
         "description": "Swiss chard, satsuma, sweet potatos, and strawberries"
       }
+    },
+    {
+      "id": "amir",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5, 44.26]
+      },
+      "properties": {
+        "name": "Amir's Aquaculture",
+        "description": null
+      }
     }
   ]
 }
