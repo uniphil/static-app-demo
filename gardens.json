@@ -11,6 +11,17 @@
         "name": "Gary's Garden",
         "description": "All grapes, gourds, guavas, and garlic"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.51, 44.22]
+      },
+      "properties": {
+        "name": "Sarah's Soils",
+        "description": "Swiss chard, satsuma, sweet potatos, and strawberries"
+      }
     }
   ]
 }
